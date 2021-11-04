@@ -11,7 +11,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
     
 
-setup(
+setup(main_change
     name="xcm_markov_attribution",
     author="Richard Fletcher",
     author_email="richard.fletcher@xcm-uk.com",
